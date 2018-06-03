@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Temp/jar/sikulixlibslux-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/Sikuli/Sikuli jar 64 bit/sikuli-script.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/jar/swing-layout-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/jar/sikuli-webdriver-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/jar/bridj-0.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/jar/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/jar/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/jar/jintellitype-1.3.7.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/jar/jxgrabkey-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/jar/jxl.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/jar/annotations-4.1.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/jar/javalib-core-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/jar/robotframework-selenium2library-java-1.2.0.9.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/Sikuli/sikulix.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/Sikuli/sikulixapi.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/jar/commons-lang3-3.6.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
